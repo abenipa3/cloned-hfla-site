@@ -1,3 +1,12 @@
+# Cloned HFLA Site Test
+
+Hack for LA's Website Team plans to build a replica of their live website that would encourage more of their teammates to review pull requests regardless of their experience in development (specifically GitHub). The replica will be used to perform updates safely before implementing changes to the live website as well as upload and delete forked repos.
+
+For testing purposes, I will be using Netlify to deploy this cloned repo and document my findings.
+
+More details can also be found in the following issues:
+- [Research How to Host a Replica of Our Website](https://github.com/hackforla/website/issues/2014)
+
 # Website
 
 Hack for LA's website: https://www.hackforla.org
