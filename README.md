@@ -121,7 +121,7 @@ Note: Most of the links mentioned in this section contain visuals of the steps t
 
 
 # Cloned Website
-cloned-hfla-site.netlify.app/
+https://cloned-hfla-site.netlify.app/
 
 # Live Website
 
