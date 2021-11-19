@@ -72,7 +72,7 @@ More details can also be found in the following issues:
 
 </details> 
 
-# Deploying HfLA Live Website to Netlify
+# Deploying Cloned HfLA Live Website to Netlify
 
 ## Prerequisites
 Note: Most of the links mentioned in this section contain visuals of the steps taken to fulfill this process.
