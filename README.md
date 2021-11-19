@@ -7,7 +7,7 @@ For testing purposes, I will be using Netlify to deploy this cloned repo and doc
 More details can also be found in the following issues:
 - [Research How to Host a Replica of Our Website](https://github.com/hackforla/website/issues/2014)
 
-## Findings
+# Findings for Each Interfaces Researched
 
 <details> <summary> squash.io </summary>
 
